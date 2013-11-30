@@ -19,7 +19,7 @@ Many open source projects solicit and encourage contributions and seek to provid
 Often times, however, these guidelines are strictly of a technical nature, as in coding standards, or a
 legal nature, as in CLAs (contributor license agreements).
 
-Additionally, ontributor guidelines should clarify the types of contributions that are considered valuable,
+Additionally, contributor guidelines should clarify the types of contributions that are considered valuable,
 the process by which such contributions are accepted, and the community standards surrouding the discussion of
 proposed contributions. In doing so, these guidelines should seek to be as inclusive as possible and
 seek to create a safe, positive environment which values all contributions which seek to improve the project.

@@ -30,7 +30,7 @@ The main product of this repository is the example terms in the file CONTRIBUTIN
 those guidelines as the basis for its own development process. Please refer to that file.
 
 ## Who
-Why, the [contributors](https://github.com/jden/CONTRIBUTING.md/network/members), of course! Would you
+Why, the [contributors](https://github.com/jden/CONTRIBUTING.md/graphs/contributors), of course! Would you
 consider being one? Please send a pull request :)
 
 ## License

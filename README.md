@@ -16,6 +16,8 @@ process can be enabled by clear documentation and guidelines.
 ## What this repository is
 
 Many open source projects solicit and encourage contributions and seek to provide guidelines for doing so.
+GitHub even provides a mechanism for presenting these guidelines during the collaboration process in the
+form of [`CONTRIBUTING.md`](https://help.github.com/articles/how-do-i-set-up-guidelines-for-contributors).
 Often times, however, these guidelines are strictly of a technical nature, as in coding standards, or a
 legal nature, as in CLAs (contributor license agreements).
 

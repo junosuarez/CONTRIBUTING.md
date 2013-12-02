@@ -7,8 +7,8 @@ Please contribute to this repository if any of the following is true:
 
 # How to contribute
 
-Prerequisites: familiarity with GitHub PRs (pull requests) and issues.
-Knowledge of Markdown for editing .md documents
+Prerequisites: familiarity with [GitHub PRs](https://help.github.com/articles/using-pull-requests) (pull requests) and issues.
+Knowledge of Markdown for editing `.md` documents
 
 In particular, this community seeks the following types of contributions:
 

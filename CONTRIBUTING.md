@@ -7,23 +7,25 @@ Please contribute to this repository if any of the following is true:
 
 # How to contribute
 
-Prerequisites: familiarity with [GitHub PRs](https://help.github.com/articles/using-pull-requests) (pull requests) and issues.
-Knowledge of Markdown for editing `.md` documents
+Prerequisites:
+
+- Familiarity with [pull requests](https://help.github.com/articles/using-pull-requests) and [issues](https://guides.github.com/features/issues/).
+- Knowledge of [Markdown](https://help.github.com/articles/markdown-basics/) for editing `.md` documents.
 
 In particular, this community seeks the following types of contributions:
 
-- ideas: participate in an Issues thread or start your own to have your voice
+- **Ideas**: participate in an issue thread or start your own to have your voice
 heard.
-- resources: submit a PR to add to RESOURCES.md with links to related content
-- outline sections: help us ensure that this repository is comprehensive. if
+- **Resources**: submit a pull request to add to RESOURCES.md with links to related content.
+- **Outline sections**: help us ensure that this repository is comprehensive. if
 there is a topic that is overlooked, please add it, even if it is just a stub
 in the form of a header and single sentence. Initially, most things fall into
 this category.
-- write: contribute your expertise in an area by helping us expand the included
-content
-- copy editing: fix typos, clarify language, and generally improve the quality
-of the content
-- formatting: help keep content easy to read with consistent formatting
+- **Writing**: contribute your expertise in an area by helping us expand the included
+content.
+- **Copy editing**: fix typos, clarify language, and generally improve the quality
+of the content.
+- **Formatting**: help keep content easy to read with consistent formatting.
 
 # Conduct
 
@@ -54,13 +56,12 @@ excludes people in socially marginalized groups.
 Private harassment is also unacceptable. No matter who you are, if you feel
 you have been or are being harassed or made uncomfortable by a community
 member, please contact one of the channel ops or any of the
-[CONTRIBUTING.MD](https://github.com/jden/CONTRIBUTING.md) core team
+[CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md) core team
 immediately. Whether you're a regular contributor or a newcomer, we care about
 making this community a safe place for you and we've got your back.
 
 Likewise any spamming, trolling, flaming, baiting or other attention-stealing
 behaviour is not welcome.
-
 
 # Communication
 
@@ -76,4 +77,5 @@ are often contentious and we'd like to keep discussion brief, civil and focused
 on what we're actually doing, not wandering off into too much imaginary stuff.
 
 # Frequently Asked Questions
+
 *please add*
